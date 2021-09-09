@@ -1,0 +1,13 @@
+#view_table
+{
+	border-style:solid;
+	border-color:maroon;
+	width:500px;
+	}
+#view_table tr
+{
+	background-color:pink;
+}
+th, td {
+  padding: 10px;
+}
